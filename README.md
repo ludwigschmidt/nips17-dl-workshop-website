@@ -20,13 +20,12 @@ We will post a link to the submission server here shortly.
 # Important Dates
 
 
-
-
-
+# Schedule
+TBD
 
 # Organizers
-- [Sanjeev Arora](https://www.cs.princeton.edu/~arora/)
-- [Maithra Raghu](http://maithraraghu.com/)
-- [Ruslan Salakhutdinov](http://www.cs.cmu.edu/~rsalakhu/)
-- [Ludwig Schmidt](http://people.csail.mit.edu/ludwigs/)
-- [Oriol Vinyals](https://research.google.com/pubs/OriolVinyals.html)
+- [Sanjeev Arora](https://www.cs.princeton.edu/~arora/) Princeton University
+- [Maithra Raghu](http://maithraraghu.com/) Cornell University and Google Brain
+- [Ruslan Salakhutdinov](http://www.cs.cmu.edu/~rsalakhu/) Carnegie Mellon University
+- [Ludwig Schmidt](http://people.csail.mit.edu/ludwigs/) MIT
+- [Oriol Vinyals](https://research.google.com/pubs/OriolVinyals.html) DeepMind
