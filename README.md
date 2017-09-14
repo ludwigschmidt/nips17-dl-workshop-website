@@ -18,9 +18,9 @@ We invite researchers to submit anonymous extended abstracts of up to 4 pages (e
 We will post a link to the submission server here shortly.
 
 # Important Dates
--Submission Deadline: Monday October 30th
--Notification: Wednesday November 15th
--Workshop: Saturday December 9th
+- Submission Deadline: Monday October 30th
+- Notification: Wednesday November 15th
+- Workshop: Saturday December 9th
 
 
 # Schedule
