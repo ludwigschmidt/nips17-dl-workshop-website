@@ -33,4 +33,4 @@ TBD
 - [Ludwig Schmidt](http://people.csail.mit.edu/ludwigs/) (MIT)
 - [Oriol Vinyals](https://research.google.com/pubs/OriolVinyals.html) (DeepMind)
 
-Please email nips2017deeplearning@gmail.com with any questions.
+Please email [nips2017deeplearning@gmail.com](mailto:nips2017deeplearning@gmail.com) with any questions.
