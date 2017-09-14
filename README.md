@@ -15,6 +15,8 @@ The workshop aims to enhance this confluence of theory and practice, highlightin
 # Call for Papers and Submission Instructions
 We invite researchers to submit anonymous extended abstracts of up to 4 pages (excluding references). No specific formatting is required. Authors may use the NIPS style file, or any other style as long as they have standard font size (11pt) and margins (1in).
 
+We will post a link to the submission server here shortly.
+
 # Important Dates
 
 
