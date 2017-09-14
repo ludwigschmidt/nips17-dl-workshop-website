@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/ludwigschmidt/nips17-dl-wo
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-Test edit
+No special style is required. Authors may use the NIPS style file, but are also free to use other styles as long as they use standard font size (11 pt) and margins (1 in).
 
 ### Markdown
 
