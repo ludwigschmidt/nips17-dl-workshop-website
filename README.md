@@ -1,9 +1,11 @@
-# Workshop Abstract
-The past five years have seen a huge increase in the capabilities of deep neural networks. Maintaining this rate of progress however, faces some steep challenges, and awaits fundamental insights. As our models become more complex, and venture into areas such as unsupervised learning or reinforcement learning, designing improvements becomes more laborious, and success can be brittle and hard to transfer to new settings.
+The past five years have seen a huge increase in the capabilities of deep neural networks.
+Maintaining this rate of progress however, faces some steep challenges, and awaits fundamental insights.
+As our models become more complex and venture into areas such as unsupervised learning or reinforcement learning, designing improvements becomes more laborious and success can be brittle and hard to transfer to new settings.
 
-This workshop seeks to highlight recent works that use theory as well as systematic experiments to isolate the fundamental questions that need to be addressed in deep learning. These have helped flesh out core questions on topics such as generalization, adversarial robustness, large batch training, generative adversarial nets, and optimization, and point towards elements of the theory of deep learning that is expected to emerge in the future.
+This workshop seeks to highlight recent works that use theory as well as systematic experiments to isolate the fundamental questions that need to be addressed in deep learning.
+These works have helped flesh out core questions on topics such as generalization, adversarial robustness, large batch training, generative adversarial nets, and optimization, and point towards elements of the theory of deep learning that is expected to emerge in the future.
 
-The workshop aims to enhance this confluence of theory and practice, highlighting influential work with these methods, future open directions, and core fundamental problems. There will be an emphasis on discussion, via panels and round tables, to identify future research directions that are promising and tractable.
+The workshop aims to enhance this confluence of theory and practice, highlighting influential work with these methods, future open directions, and core fundamental problems. There will be an emphasis on discussion to identify future research directions that are promising and tractable.
 
 # Confirmed Speakers
 [Yoshua Bengio](http://www.iro.umontreal.ca/~bengioy/yoshua_en/) University of Montreal
