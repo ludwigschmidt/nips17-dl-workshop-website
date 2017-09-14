@@ -14,8 +14,8 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # Header 1
-## Header 2
-### Header 3
+## Submission Instructions
+No special style is required. Authors may use the NIPS style file, but are also free to use other styles as long as they use standard font size (11 pt) and margins (1 in).
 
 - Bulleted
 - List
