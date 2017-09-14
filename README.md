@@ -6,15 +6,11 @@ This workshop seeks to highlight recent works that use theory as well as systema
 The workshop aims to enhance this confluence of theory and practice, highlighting influential work with these methods, future open directions, and core fundamental problems. There will be an emphasis on discussion, via panels and round tables, to identify future research directions that are promising and tractable.
 
 # Confirmed Speakers
--[Yoshua Bengio](http://www.iro.umontreal.ca/~bengioy/yoshua_en/) University of Montreal
-
--[Ian Goodfellow](http://www.iangoodfellow.com/) Google Brain
-
--[Sham Kakade](https://homes.cs.washington.edu/~sham/) University of Washington
-
--[Percy Liang](https://cs.stanford.edu/~pliang/) Stanford University
-
--[Nati Srebro](http://ttic.uchicago.edu/~nati/) Toyota Technological Institute at Chicago
+-[Yoshua Bengio](http://www.iro.umontreal.ca/~bengioy/yoshua_en/) (University of Montreal)
+-[Ian Goodfellow](http://www.iangoodfellow.com/) (Google Brain)
+-[Sham Kakade](https://homes.cs.washington.edu/~sham/) (University of Washington)
+-[Percy Liang](https://cs.stanford.edu/~pliang/) (Stanford University)
+-[Nati Srebro](http://ttic.uchicago.edu/~nati/) (Toyota Technological Institute at Chicago)
 
 # Call for Papers and Submission Instructions
 We invite researchers to submit anonymous extended abstracts of up to 4 pages (excluding references). No specific formatting is required. Authors may use the NIPS style file, or any other style as long as they have standard font size (11pt) and margins (1in).
