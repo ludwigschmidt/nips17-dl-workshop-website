@@ -18,6 +18,9 @@ We invite researchers to submit anonymous extended abstracts of up to 4 pages (e
 We will post a link to the submission server here shortly.
 
 # Important Dates
+-Submission Deadline: Monday October 30th
+-Notification: Wednesday November 15th
+-Workshop: Saturday December 9th
 
 
 # Schedule
@@ -29,3 +32,5 @@ TBD
 - [Ruslan Salakhutdinov](http://www.cs.cmu.edu/~rsalakhu/) (Carnegie Mellon University)
 - [Ludwig Schmidt](http://people.csail.mit.edu/ludwigs/) (MIT)
 - [Oriol Vinyals](https://research.google.com/pubs/OriolVinyals.html) (DeepMind)
+
+Please email nips2017deeplearning@gmail.com with any questions.
