@@ -19,7 +19,7 @@ Submit on [https://easychair.org/conferences/?conf=dltp2017](https://easychair.o
 
 
 # Important Dates
-- Submission Deadline: Monday October 30th
+- Submission Deadline: (EXTENDED) Wednesday November 1st
 - Notification: Wednesday November 15th
 - Workshop: Saturday December 9th
 
