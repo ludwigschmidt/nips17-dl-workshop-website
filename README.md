@@ -10,6 +10,7 @@ The workshop aims to enhance this confluence of theory and practice, highlightin
 - [Ian Goodfellow](http://www.iangoodfellow.com/) (Google Brain)
 - [Sham Kakade](https://homes.cs.washington.edu/~sham/) (University of Washington)
 - [Percy Liang](https://cs.stanford.edu/~pliang/) (Stanford University)
+- [Doina Precup](http://cs.mcgill.ca/~dprecup/) (McGill University)
 - [Nati Srebro](http://ttic.uchicago.edu/~nati/) (Toyota Technological Institute at Chicago)
 
 # Call for Papers and Submission Instructions
