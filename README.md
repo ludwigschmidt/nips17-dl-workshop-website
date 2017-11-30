@@ -26,7 +26,22 @@ Submit on [https://easychair.org/conferences/?conf=dltp2017](https://easychair.o
 
 
 # Schedule
-TBD
+| Time | Event |
+| --- | --- |
+| 8:35 - 8:45 | Opening Remarks |
+| 8:45 - 9:15 | Yoshua Bengio |
+| 9:15 - 9:45 | Peter Bartlett |
+| 9:45 - 10:00 | Spotlights |
+| 10:00 - 10:30 | Ian Goodfellow |
+| 10:30 - 11:00 | Coffee |
+| 11:00 - 11:30 | Doina Precup |
+| 11:30 - 11:45 | Spotlights |
+| 11:45 - 1:30 | Lunch + first poster session |
+| 1:30 - 2:00 | Percy Liang |
+| 2:00 - 3:00 | Contributed Talks |
+| 3:00 - 4:00 |  Coffee + second poster session |
+| 4:00 - 4:30 | Sham Kakade |
+| 4:30 - 5:30 | Panel |
 
 # Organizers
 - [Sanjeev Arora](https://www.cs.princeton.edu/~arora/) (Princeton University)
