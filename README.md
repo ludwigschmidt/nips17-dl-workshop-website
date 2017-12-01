@@ -13,17 +13,6 @@ The workshop aims to enhance this confluence of theory and practice, highlightin
 - [Percy Liang](https://cs.stanford.edu/~pliang/) (Stanford University)
 - [Doina Precup](http://cs.mcgill.ca/~dprecup/) (McGill University)
 
-# Call for Papers and Submission Instructions
-We invite researchers to submit anonymous extended abstracts of up to 4 pages (excluding references). No specific formatting is required. Authors may use the NIPS style file, or any other style as long as they have standard font size (11pt) and margins (1in).
-
-Submit on [https://easychair.org/conferences/?conf=dltp2017](https://easychair.org/conferences/?conf=dltp2017).
-
-
-# Important Dates
-- Submission Deadline: (EXTENDED) Wednesday November 1st
-- Notification: Saturday November 25th
-- Workshop: Saturday December 9th
-
 
 # Schedule
 
@@ -69,6 +58,18 @@ Submit on [https://easychair.org/conferences/?conf=dltp2017](https://easychair.o
 *Elad Hazan, Adam Klivans, and Yang Yuan*  
 4. Learning Implicit Generative Models with Method of Learned Moments  
 *Suman Ravuri, Shakir Mohamed, Mihaela Rosca, and Oriol Vinyals*  
+
+
+# Call for Papers and Submission Instructions
+We invite researchers to submit anonymous extended abstracts of up to 4 pages (excluding references). No specific formatting is required. Authors may use the NIPS style file, or any other style as long as they have standard font size (11pt) and margins (1in).
+
+Submit on [https://easychair.org/conferences/?conf=dltp2017](https://easychair.org/conferences/?conf=dltp2017).
+
+
+# Important Dates
+- Submission Deadline: (EXTENDED) Wednesday November 1st
+- Notification: Saturday November 25th
+- Workshop: Saturday December 9th
 
 # Organizers
 - [Sanjeev Arora](https://www.cs.princeton.edu/~arora/) (Princeton University)
