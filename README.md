@@ -32,7 +32,7 @@ Submit on [https://easychair.org/conferences/?conf=dltp2017](https://easychair.o
 | 8:35 - 8:45 | Opening Remarks |
 | 8:45 - 9:15 | Yoshua Bengio |
 | 9:15 - 9:45 | Peter Bartlett |
-| 9:45 - 10:00 | Spotlights <ul><li> Generalization in deep nets: the role of distance from initialization </li><li>Entropy-SG(L)D optimizes the prior of a (valid) PAC-Bayes bound</li><li>Large Batch Training of DNNs with Layer-wise Adaptive Rate Scaling</li></ul> |
+| 9:45 - 10:00 | Spotlights |
 | 10:00 - 10:30 | Ian Goodfellow |
 | 10:30 - 11:00 | Coffee |
 | 11:00 - 11:30 | Doina Precup |
