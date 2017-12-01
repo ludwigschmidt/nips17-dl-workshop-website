@@ -45,12 +45,12 @@ Submit on [https://easychair.org/conferences/?conf=dltp2017](https://easychair.o
 | 4:30 - 5:30 | Panel |
 
 ## Spotlights 1
-1) Generalization in deep nets: the role of distance from initialization  
-*Vaishnavh Nagarajan and Zico Kolter*
-2) Entropy-SG(L)D optimizes the prior of a (valid) PAC-Bayes bound  
-*Gintare Karolina Dziugaite and Daniel Roy*
-3) Large Batch Training of DNNs with Layer-wise Adaptive Rate Scaling  
-*Boris Ginsburg, Yang You, and Igor Gitman*
+1. Generalization in deep nets: the role of distance from initialization  
+*Vaishnavh Nagarajan and Zico Kolter*  
+2.  Entropy-SG(L)D optimizes the prior of a (valid) PAC-Bayes bound  
+*Gintare Karolina Dziugaite and Daniel Roy*  
+3. Large Batch Training of DNNs with Layer-wise Adaptive Rate Scaling  
+*Boris Ginsburg, Yang You, and Igor Gitman*  
 
 # Organizers
 - [Sanjeev Arora](https://www.cs.princeton.edu/~arora/) (Princeton University)
