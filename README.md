@@ -44,13 +44,21 @@ Submit on [https://easychair.org/conferences/?conf=dltp2017](https://easychair.o
 | 4:00 - 4:30 | Sham Kakade |
 | 4:30 - 5:30 | Panel |
 
-## Spotlights 1
+## Spotlights 1  (9:45 - 10:00)
 1. Generalization in deep nets: the role of distance from initialization  
 *Vaishnavh Nagarajan and Zico Kolter*  
 2.  Entropy-SG(L)D optimizes the prior of a (valid) PAC-Bayes bound  
 *Gintare Karolina Dziugaite and Daniel Roy*  
 3. Large Batch Training of DNNs with Layer-wise Adaptive Rate Scaling  
 *Boris Ginsburg, Yang You, and Igor Gitman*  
+
+## Spotlights 2  (11:30 - 11:45)
+1. Measuring robustness of NNs via Minimal Adversarial Examples  
+*Sumanth Dathathri, Stephan Zheng, Sicun Gao, and Richard M. Murray*  
+2. A classification based perspective on GAN-distributions  
+*Shibani Santurkar, Ludwig Schmidt, and Aleksander Madry*  
+3. Learning one hidden layer neural nets with landscape design  
+*Rong Ge, Jason Lee, and Tengyu Ma* 
 
 # Organizers
 - [Sanjeev Arora](https://www.cs.princeton.edu/~arora/) (Princeton University)
