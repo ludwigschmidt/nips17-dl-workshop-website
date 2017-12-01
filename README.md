@@ -32,17 +32,25 @@ Submit on [https://easychair.org/conferences/?conf=dltp2017](https://easychair.o
 | 8:35 - 8:45 | Opening Remarks |
 | 8:45 - 9:15 | Yoshua Bengio |
 | 9:15 - 9:45 | Peter Bartlett |
-| 9:45 - 10:00 | Spotlights |
+| 9:45 - 10:00 | Spotlights 1 |
 | 10:00 - 10:30 | Ian Goodfellow |
 | 10:30 - 11:00 | Coffee |
 | 11:00 - 11:30 | Doina Precup |
-| 11:30 - 11:45 | Spotlights |
+| 11:30 - 11:45 | Spotlights 2 |
 | 11:45 - 1:30 | Lunch + first poster session |
 | 1:30 - 2:00 | Percy Liang |
 | 2:00 - 3:00 | Contributed Talks |
 | 3:00 - 4:00 |  Coffee + second poster session |
 | 4:00 - 4:30 | Sham Kakade |
 | 4:30 - 5:30 | Panel |
+
+## Spotlights 1
+1) Generalization in deep nets: the role of distance from initialization  
+*Vaishnavh Nagarajan and Zico Kolter*
+2) Entropy-SG(L)D optimizes the prior of a (valid) PAC-Bayes bound  
+*Gintare Karolina Dziugaite and Daniel Roy*
+3) Large Batch Training of DNNs with Layer-wise Adaptive Rate Scaling  
+*Boris Ginsburg, Yang You, and Igor Gitman*
 
 # Organizers
 - [Sanjeev Arora](https://www.cs.princeton.edu/~arora/) (Princeton University)
