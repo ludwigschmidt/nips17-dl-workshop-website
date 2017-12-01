@@ -39,7 +39,7 @@ Submit on [https://easychair.org/conferences/?conf=dltp2017](https://easychair.o
 | 11:30 - 11:45 | Spotlights 2 |
 | 11:45 - 1:30 | Lunch + first poster session |
 | 1:30 - 2:00 | Percy Liang |
-| 2:00 - 3:00 | Contributed Talks |
+| 2:00 - 3:00 | Contributed talks |
 | 3:00 - 4:00 |  Coffee + second poster session |
 | 4:00 - 4:30 | Sham Kakade |
 | 4:30 - 5:30 | Panel |
@@ -59,6 +59,16 @@ Submit on [https://easychair.org/conferences/?conf=dltp2017](https://easychair.o
 *Shibani Santurkar, Ludwig Schmidt, and Aleksander Madry*  
 3. Learning one hidden layer neural nets with landscape design  
 *Rong Ge, Jason Lee, and Tengyu Ma* 
+
+## Contributed talks (2:00 - 3:00)
+1. Don't Decay the Learning Rate, Increase the Batch Size  
+*Samuel L. Smith, Pieter-Jan Kindermans, and Quoc V. Le*  
+2. Meta-Learning and Universality: Deep Representations and Gradient Descent Can Approximate Any Learning Algorithm  
+*Chelsea Finn and Sergey Levine*  
+3. Hyperparameter Optimization: A Spectral Approach  
+*Elad Hazan, Adam Klivans, and Yang Yuan*  
+4. Learning Implicit Generative Models with Method of Learned Moments  
+*Suman Ravuri, Shakir Mohamed, Mihaela Rosca, and Oriol Vinyals*  
 
 # Organizers
 - [Sanjeev Arora](https://www.cs.princeton.edu/~arora/) (Princeton University)
