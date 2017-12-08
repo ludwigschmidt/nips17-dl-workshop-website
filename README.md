@@ -19,18 +19,18 @@ The workshop aims to enhance this confluence of theory and practice, highlightin
 | Time | Event |
 | --- | --- |
 | 8:35 - 8:45 | Opening Remarks |
-| 8:45 - 9:15 | Yoshua Bengio *Generalization, Memorization and SGD* |
-| 9:15 - 9:45 | Peter Bartlett *TBD* |
+| 8:45 - 9:15 | Yoshua Bengio: *Generalization, Memorization and SGD* |
+| 9:15 - 9:45 | Peter Bartlett: *TBD* |
 | 9:45 - 10:00 | Spotlights 1 |
-| 10:00 - 10:30 | Ian Goodfellow *Bridging Theory and Practice of GANs* |
+| 10:00 - 10:30 | Ian Goodfellow: *Bridging Theory and Practice of GANs* |
 | 10:30 - 11:00 | Coffee |
-| 11:00 - 11:30 | Doina Precup *TBD* |
+| 11:00 - 11:30 | Doina Precup: *TBD* |
 | 11:30 - 11:45 | Spotlights 2 |
 | 11:45 - 1:30 | Lunch + first poster session |
-| 1:30 - 2:00 | Percy Liang *Fighting Black Boxes, Adversaries, and Bugs in Deep Learning* |
+| 1:30 - 2:00 | Percy Liang: *Fighting Black Boxes, Adversaries, and Bugs in Deep Learning* |
 | 2:00 - 3:00 | Contributed talks |
 | 3:00 - 4:00 |  Coffee + second poster session |
-| 4:00 - 4:30 | Sham Kakade *Towards Bridging Theory and Practice in DeepRL* |
+| 4:00 - 4:30 | Sham Kakade: *Towards Bridging Theory and Practice in DeepRL* |
 | 4:30 - 5:30 | Panel: Russ Salakhutdiov, Percy Liang, Peter Bartlett, Sham Kakade |
 
 ## Spotlights 1  (9:45 - 10:00)
