@@ -23,9 +23,9 @@ The workshop aims to enhance this confluence of theory and practice, highlightin
 | --- | --- |
 | 8:35 - 8:45 | Opening Remarks |
 | 8:45 - 9:15 | Yoshua Bengio: *Generalization, Memorization and SGD* |
-| 9:15 - 9:45 | Peter Bartlett: *Generalization in Deep Networks* |
+| 9:15 - 9:45 | Ian Goodfellow: *Bridging Theory and Practice of GANs* |
 | 9:45 - 10:00 | Spotlights 1 |
-| 10:00 - 10:30 | Ian Goodfellow: *Bridging Theory and Practice of GANs* |
+| 10:00 - 10:30 | Peter Bartlett: *Generalization in Deep Networks* |
 | 10:30 - 11:00 | Coffee |
 | 11:00 - 11:30 | Doina Precup: *Experimental design in Deep Reinforcement Learning* |
 | 11:30 - 11:45 | Spotlights 2 |
