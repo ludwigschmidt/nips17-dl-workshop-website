@@ -1,3 +1,6 @@
+# Location
+Hall A, Long Beach Convention Center
+
 # Workshop Abstract
 The past five years have seen a huge increase in the capabilities of deep neural networks. Maintaining this rate of progress however, faces some steep challenges, and awaits fundamental insights. As our models become more complex, and venture into areas such as unsupervised learning or reinforcement learning, designing improvements becomes more laborious, and success can be brittle and hard to transfer to new settings.
 
@@ -20,11 +23,11 @@ The workshop aims to enhance this confluence of theory and practice, highlightin
 | --- | --- |
 | 8:35 - 8:45 | Opening Remarks |
 | 8:45 - 9:15 | Yoshua Bengio: *Generalization, Memorization and SGD* |
-| 9:15 - 9:45 | Peter Bartlett: *TBD* |
+| 9:15 - 9:45 | Peter Bartlett: *Generalization in Deep Networks* |
 | 9:45 - 10:00 | Spotlights 1 |
 | 10:00 - 10:30 | Ian Goodfellow: *Bridging Theory and Practice of GANs* |
 | 10:30 - 11:00 | Coffee |
-| 11:00 - 11:30 | Doina Precup: *TBD* |
+| 11:00 - 11:30 | Doina Precup: *Experimental design in Deep Reinforcement Learning* |
 | 11:30 - 11:45 | Spotlights 2 |
 | 11:45 - 1:30 | Lunch + first poster session |
 | 1:30 - 2:00 | Percy Liang: *Fighting Black Boxes, Adversaries, and Bugs in Deep Learning* |
