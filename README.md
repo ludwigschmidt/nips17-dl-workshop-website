@@ -34,19 +34,19 @@ The workshop aims to enhance this confluence of theory and practice, highlightin
 | 4:30 - 5:30 | Panel: Russ Salakhutdiov, Percy Liang, Peter Bartlett, Sham Kakade |
 
 ## Spotlights 1  (9:45 - 10:00)
-1. Generalization in deep nets: the role of distance from initialization  
+1. Generalization in Deep Networks: The Role of Distance from Initialization    
 *Vaishnavh Nagarajan and Zico Kolter*  
 2.  Entropy-SG(L)D optimizes the prior of a (valid) PAC-Bayes bound  
 *Gintare Karolina Dziugaite and Daniel Roy*  
-3. Large Batch Training of DNNs with Layer-wise Adaptive Rate Scaling  
+3. Large Batch Training of Deep Neural Networks with Layer-wise Adaptive Rate Scaling    
 *Boris Ginsburg, Yang You, and Igor Gitman*  
 
 ## Spotlights 2  (11:30 - 11:45)
-1. Measuring robustness of NNs via Minimal Adversarial Examples  
+1. Measuring the Robustness of Neural Networks via Minimal Adversarial Examples  
 *Sumanth Dathathri, Stephan Zheng, Sicun Gao, and Richard M. Murray*  
-2. A classification based perspective on GAN-distributions  
+2. A Classification-Based Perspective on GAN Distributions  
 *Shibani Santurkar, Ludwig Schmidt, and Aleksander Madry*  
-3. Learning one hidden layer neural nets with landscape design  
+3. Learning One-hidden-layer Neural Networks with Landscape Design  
 *Rong Ge, Jason Lee, and Tengyu Ma* 
 
 ## Contributed talks (2:00 - 3:00)
@@ -64,7 +64,70 @@ The posters are listed in order of submission.
 
 - Rethinking Feature Discrimination and Polymerization for Large-scale Recognition  
 *Yu Liu, Hongyang Li, and Xiaogang Wang*
-- (to be continued)
+- High dimensional dynamics of generalization error in neural networks  
+*Madhu Advani and Andrew Saxe*
+- On the importance of single directions for generalization  
+*Ari S. Morcos, David G.T. Barrett, Neil C. Rabinowitz, and Matthew Botvinick*
+- When is a Convolutional Filter Easy to Learn?  
+*Simon Du, Jason Lee, and Yuandong Tian*
+- A Pitfall of Unsupervised Pre-Training  
+*Michele Alberti, Mathias Seuret, Rolf Ingold, and Marcus Liwicki*
+- Competitive Learning Enriches Learning Representation and Accelerates the Fine-tuning of CNNs  
+*Takashi Shinozaki*
+- Reducing Duplicate Filters in Deep Neural Networks  
+*Aruni Roychowdhury, Prakhar Sharma, and Erik Learned-Miller*
+- Generalization Bounds of SGLD for Non-convex Learning: Two Theoretical Viewpoints  
+*Wenlong Mou, Liwei Wang, Xiyu Zhai, and Kai Zheng*
+- Towards Provable Learning of Polynomial Neural Networks Using Low-Rank Matrix Estimation  
+*Mohammadreza Soltani and Chinmay Hegde*
+- Learning Depth-Three Neural Networks in Polynomial Time  
+*Surbhi Goel and Adam Klivans*
+- Analyzing GANs with Generative Scattering Networks  
+*Tomas Angles and Stephane Mallat*
+- On Characterizing the Capacity of Neural Networks Using Algebraic Topology  
+*William Guss and Ruslan Salakhutdinov*
+- Deep Learning is Robust to Massive Label Noise  
+*David Rolnick, Andreas Veit, Serge Belongie, and Nir Shavit*
+- Network Approximation using Tensor Sketching  
+*Shiva Kasiviswanathan, Nina Narodytska, and Hongxia Jin*
+- Evaluation of Random Neural Layers in Deep Neural Networks  
+*Corentin Hardy, Erwan Le Merrer, Gerardo Rubino, and Bruno Sericola*
+- Training GANs with Optimism  
+*Constantinos Daskalakis, Andrew Ilyas, Vasilis Syrgkanis, and Haoyang Zeng*
+- GAN Connoisseur: Can GANs Learn Simple 1D Parametric Distributions?  
+*Manzil Zaheer, Chun-Liang Li, Barnabas Poczos, and Ruslan Salakhutdinov*
+- LSH Softmax: Sub-Linear Learning and Inference of the Softmax Layer in Deep Architectures  
+*Daniel Levy, Danlu Chen, and Stefano Ermon*
+- Global optimality conditions for deep neural networks  
+*Chulhee Yun, Suvrit Sra, and Ali Jadbabaie*
+- Visualizing the Loss Landscape of Neural Nets  
+*Hao Li, Zheng Xu, Gavin Taylor, and Tom Goldstein*
+- Semi-Supervised Learning with IPM-based GANs: an Empirical Study  
+*Tom Sercu and Youssef Mroueh*
+- Theoretical limitations of Encoder-Decoder GAN architectures  
+*Sanjeev Arora, Andrej Risteski, and Yi Zhang*
+- An Online Learning Approach to Generative Adversarial Networks  
+*Paulina Grnarova, Kfir Levy, Aurelien Lucchi, Thomas Hofmann, and Andreas Krause*
+- mixup: Beyond Empirical Risk Minimization  
+*Hongyi Zhang, Moustapha Cisse, Yann Dauphin, and David Lopez-Paz*
+- An Empirical Study of the Generalization Behavior of Generative Adversarial Networks  
+*Hongyu Ren, Shengjia Zhao, Jiaming Song, Lijie Fan, and Stefano Ermon*
+- Towards a testable notion of generalization for generative adversarial networks  
+*Robert Cornish, Hongseok Yang, and Frank Wood*
+- Sparse Coding and Autoencoders  
+*Akshay Rangamani, Anirbit Mukherjee, Ashish Arora, Amitabh Basu, Tejaswini Ganapathi, Peter Chin, and Trac Tran*
+- Investigating the working of text classifiers  
+*Devendra Singh Sachan, Manzil Zaheer, and Russ Salakhutdinov*
+- Intriguing Properties of Adversarial Examples  
+*Ekin Dogus Cubuk, Barret Zoph, Samuel S. Schoenholz, and Quoc V. Le*
+- Sparse-Gen: Combining Sparse Recovery and Generative Modeling for Compressed Sensing  
+*Manik Dhar, Aditya Grover, and Stefano Ermon*
+- Experiments & non-convex theory for sign-based methods in stochastic optimisation  
+*Jeremy Bernstein, Kamyar Azizzadenesheli, Yu-Xiang Wang, and Anima Anandkumar*
+- Exactly solvable nonlinear recurrent networks for finite state computation  
+*Christopher Stock and Surya Ganguli*
+- Training ultra-deep CNNs with critical initialization  
+*Lechao Xiao, Yasaman Bahri, Sam Schoenholz, and Jeffrey Pennington*
 
 
 # Call for Papers and Submission Instructions
