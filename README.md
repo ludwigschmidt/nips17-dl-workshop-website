@@ -44,7 +44,7 @@ The workshop aims to enhance this confluence of theory and practice, highlightin
 ## Spotlights 2  (11:30 - 11:45)
 1. Measuring the Robustness of Neural Networks via Minimal Adversarial Examples  
 *Sumanth Dathathri, Stephan Zheng, Sicun Gao, and Richard M. Murray*  
-2. A Classification-Based Perspective on GAN Distributions  
+2. [A Classification-Based Perspective on GAN Distributions](https://arxiv.org/abs/1711.00970)    
 *Shibani Santurkar, Ludwig Schmidt, and Aleksander Madry*  
 3. Learning One-hidden-layer Neural Networks with Landscape Design  
 *Rong Ge, Jason Lee, and Tengyu Ma* 
