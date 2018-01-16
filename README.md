@@ -1,6 +1,3 @@
-# Location
-Hall A, Long Beach Convention Center
-
 # Workshop Abstract
 The past five years have seen a huge increase in the capabilities of deep neural networks. Maintaining this rate of progress however, faces some steep challenges, and awaits fundamental insights. As our models become more complex, and venture into areas such as unsupervised learning or reinforcement learning, designing improvements becomes more laborious, and success can be brittle and hard to transfer to new settings.
 
@@ -60,7 +57,14 @@ The workshop aims to enhance this confluence of theory and practice, highlightin
 3. Hyperparameter Optimization: A Spectral Approach  
 *Elad Hazan, Adam Klivans, and Yang Yuan*  
 4. Learning Implicit Generative Models with Method of Learned Moments  
-*Suman Ravuri, Shakir Mohamed, Mihaela Rosca, and Oriol Vinyals*  
+*Suman Ravuri, Shakir Mohamed, Mihaela Rosca, and Oriol Vinyals* 
+
+## Posters (11:45 - 1:30 and 3:00 - 4:00)
+The posters are listed in order of submission.
+
+- Rethinking Feature Discrimination and Polymerization for Large-scale Recognition  
+*Yu Liu, Hongyang Li, and Xiaogang Wang*
+- (to be continued)
 
 
 # Call for Papers and Submission Instructions
