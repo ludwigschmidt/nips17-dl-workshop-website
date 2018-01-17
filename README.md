@@ -31,7 +31,7 @@ The workshop aims to enhance this confluence of theory and practice, highlightin
 | 2:00 - 3:00 | Contributed talks |
 | 3:00 - 4:00 |  Coffee + second poster session |
 | 4:00 - 4:30 | Sham Kakade: *Towards Bridging Theory and Practice in DeepRL* |
-| 4:30 - 5:30 | Panel: Russ Salakhutdiov, Percy Liang, Peter Bartlett, Sham Kakade |
+| 4:30 - 5:30 | Panel: Peter Bartlett, Yoshua Bengio, Sham Kakade, Percy Liang, Ruslan Salakhutdinov |
 
 ## Spotlights 1  (9:45 - 10:00)
 1. Generalization in Deep Networks: The Role of Distance from Initialization    
