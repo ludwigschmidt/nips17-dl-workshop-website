@@ -52,7 +52,7 @@ The workshop aims to enhance this confluence of theory and practice, highlightin
 ## Contributed talks (2:00 - 3:00)
 1. Don't Decay the Learning Rate, Increase the Batch Size  
 *Samuel L. Smith, Pieter-Jan Kindermans, and Quoc V. Le*  
-2. [Meta-Learning and Universality: Deep Representations and Gradient Descent Can Approximate Any Learning Algorithm](https://arxiv.org/abs/1710.11622)
+2. [Meta-Learning and Universality: Deep Representations and Gradient Descent Can Approximate Any Learning Algorithm](https://arxiv.org/abs/1710.11622)  
 *Chelsea Finn and Sergey Levine*  
 3. Hyperparameter Optimization: A Spectral Approach  
 *Elad Hazan, Adam Klivans, and Yang Yuan*  
