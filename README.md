@@ -66,7 +66,7 @@ The posters are listed in order of submission.
 *Yu Liu, Hongyang Li, and Xiaogang Wang*
 - High dimensional dynamics of generalization error in neural networks  
 *Madhu Advani and Andrew Saxe*
-- [On the importance of single directions for generalization](https://github.com/ludwigschmidt/nips17-dl-workshop-website/raw/master/papers/morcos_barrett_rabinowitz_botvinick.pdf)  
+- [On the importance of single directions for generalization](https://github.com/ludwigschmidt/nips17-dl-workshop-website/blob/master/papers/morcos_barrett_rabinowitz_botvinick.pdf)  
 *Ari S. Morcos, David G.T. Barrett, Neil C. Rabinowitz, and Matthew Botvinick*
 - When is a Convolutional Filter Easy to Learn?  
 *Simon Du, Jason Lee, and Yuandong Tian*
