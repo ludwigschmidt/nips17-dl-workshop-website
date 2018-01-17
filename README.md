@@ -68,7 +68,7 @@ The posters are listed in order of submission.
 *Madhu Advani and Andrew Saxe*
 - [On the importance of single directions for generalization](https://github.com/ludwigschmidt/nips17-dl-workshop-website/blob/master/papers/morcos_barrett_rabinowitz_botvinick.pdf)  
 *Ari S. Morcos, David G.T. Barrett, Neil C. Rabinowitz, and Matthew Botvinick*
-- When is a Convolutional Filter Easy to Learn?  
+- [When is a Convolutional Filter Easy to Learn?](http://www.cs.cmu.edu/~ssdu/publications/filter.pdf)  
 *Simon Du, Jason Lee, and Yuandong Tian*
 - [A Pitfall of Unsupervised Pre-Training](https://arxiv.org/abs/1703.04332)  
 *Michele Alberti, Mathias Seuret, Rolf Ingold, and Marcus Liwicki*
