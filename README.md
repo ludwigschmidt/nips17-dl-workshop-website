@@ -88,7 +88,7 @@ The posters are listed in order of submission.
 *William Guss and Ruslan Salakhutdinov*
 - Deep Learning is Robust to Massive Label Noise  
 *David Rolnick, Andreas Veit, Serge Belongie, and Nir Shavit*
-- Network Approximation using Tensor Sketching  
+- [Network Approximation using Tensor Sketching](https://arxiv.org/abs/1710.07850)  
 *Shiva Kasiviswanathan, Nina Narodytska, and Hongxia Jin*
 - Evaluation of Random Neural Layers in Deep Neural Networks  
 *Corentin Hardy, Erwan Le Merrer, Gerardo Rubino, and Bruno Sericola*
