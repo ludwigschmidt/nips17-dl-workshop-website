@@ -70,7 +70,7 @@ The posters are listed in order of submission.
 *Ari S. Morcos, David G.T. Barrett, Neil C. Rabinowitz, and Matthew Botvinick*
 - When is a Convolutional Filter Easy to Learn?  
 *Simon Du, Jason Lee, and Yuandong Tian*
-- A Pitfall of Unsupervised Pre-Training  
+- [A Pitfall of Unsupervised Pre-Training](https://arxiv.org/abs/1703.04332)  
 *Michele Alberti, Mathias Seuret, Rolf Ingold, and Marcus Liwicki*
 - Competitive Learning Enriches Learning Representation and Accelerates the Fine-tuning of CNNs  
 *Takashi Shinozaki*
