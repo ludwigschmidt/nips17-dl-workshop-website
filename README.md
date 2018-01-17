@@ -64,7 +64,7 @@ The posters are listed in order of submission.
 
 - Rethinking Feature Discrimination and Polymerization for Large-scale Recognition  
 *Yu Liu, Hongyang Li, and Xiaogang Wang*
-- High dimensional dynamics of generalization error in neural networks  
+- [High dimensional dynamics of generalization error in neural networks](https://arxiv.org/abs/1710.03667)  
 *Madhu Advani and Andrew Saxe*
 - [On the importance of single directions for generalization](https://github.com/ludwigschmidt/nips17-dl-workshop-website/blob/master/papers/morcos_barrett_rabinowitz_botvinick.pdf)  
 *Ari S. Morcos, David G.T. Barrett, Neil C. Rabinowitz, and Matthew Botvinick*
