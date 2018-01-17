@@ -78,7 +78,7 @@ The posters are listed in order of submission.
 *Aruni Roychowdhury, Prakhar Sharma, and Erik Learned-Miller*
 - Generalization Bounds of SGLD for Non-convex Learning: Two Theoretical Viewpoints  
 *Wenlong Mou, Liwei Wang, Xiyu Zhai, and Kai Zheng*
-- Towards Provable Learning of Polynomial Neural Networks Using Low-Rank Matrix Estimation  
+- [Towards Provable Learning of Polynomial Neural Networks Using Low-Rank Matrix Estimation](https://github.com/ludwigschmidt/nips17-dl-workshop-website/raw/master/papers/soltani_hegde.pdf)  
 *Mohammadreza Soltani and Chinmay Hegde*
 - Learning Depth-Three Neural Networks in Polynomial Time  
 *Surbhi Goel and Adam Klivans*
