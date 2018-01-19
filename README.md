@@ -112,7 +112,7 @@ The posters are listed in order of submission.
 *Hongyi Zhang, Moustapha Cisse, Yann Dauphin, and David Lopez-Paz*
 - An Empirical Study of the Generalization Behavior of Generative Adversarial Networks  
 *Hongyu Ren, Shengjia Zhao, Jiaming Song, Lijie Fan, and Stefano Ermon*
-- Towards a testable notion of generalization for generative adversarial networks  
+- [Towards a testable notion of generalization for generative adversarial networks](http://www.robots.ox.ac.uk/~rcornish/assets/bib/workshop/cornish2017towards.pdf)  
 *Robert Cornish, Hongseok Yang, and Frank Wood*
 - Sparse Coding and Autoencoders  
 *Akshay Rangamani, Anirbit Mukherjee, Ashish Arora, Amitabh Basu, Tejaswini Ganapathi, Peter Chin, and Trac Tran*
