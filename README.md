@@ -74,7 +74,7 @@ The posters are listed in order of submission.
 *Michele Alberti, Mathias Seuret, Rolf Ingold, and Marcus Liwicki*
 - Competitive Learning Enriches Learning Representation and Accelerates the Fine-tuning of CNNs  
 *Takashi Shinozaki*
-- Reducing Duplicate Filters in Deep Neural Networks  
+- [Reducing Duplicate Filters in Deep Neural Networks](http://people.cs.umass.edu/~arunirc/downloads/pubs/redundant_filter_dltp2017.pdf)  
 *Aruni Roychowdhury, Prakhar Sharma, and Erik Learned-Miller*
 - Generalization Bounds of SGLD for Non-convex Learning: Two Theoretical Viewpoints  
 *Wenlong Mou, Liwei Wang, Xiyu Zhai, and Kai Zheng*
