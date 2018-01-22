@@ -76,7 +76,7 @@ The posters are listed in order of submission.
 *Takashi Shinozaki*
 - [Reducing Duplicate Filters in Deep Neural Networks](http://people.cs.umass.edu/~arunirc/downloads/pubs/redundant_filter_dltp2017.pdf)  
 *Aruni Roychowdhury, Prakhar Sharma, and Erik Learned-Miller*
-- Generalization Bounds of SGLD for Non-convex Learning: Two Theoretical Viewpoints  
+- [Generalization Bounds of SGLD for Non-convex Learning: Two Theoretical Viewpoints](https://arxiv.org/abs/1707.05947)  
 *Wenlong Mou, Liwei Wang, Xiyu Zhai, and Kai Zheng*
 - [Towards Provable Learning of Polynomial Neural Networks Using Low-Rank Matrix Estimation](https://github.com/ludwigschmidt/nips17-dl-workshop-website/blob/master/papers/soltani_hegde.pdf)  
 *Mohammadreza Soltani and Chinmay Hegde*
