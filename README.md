@@ -98,7 +98,7 @@ The posters are listed in order of submission.
 *Manzil Zaheer, Chun-Liang Li, Barnabas Poczos, and Ruslan Salakhutdinov*
 - LSH Softmax: Sub-Linear Learning and Inference of the Softmax Layer in Deep Architectures  
 *Daniel Levy, Danlu Chen, and Stefano Ermon*
-- Global optimality conditions for deep neural networks  
+- [Global optimality conditions for deep neural networks](https://arxiv.org/abs/1707.02444)  
 *Chulhee Yun, Suvrit Sra, and Ali Jadbabaie*
 - Visualizing the Loss Landscape of Neural Nets  
 *Hao Li, Zheng Xu, Gavin Taylor, and Tom Goldstein*
