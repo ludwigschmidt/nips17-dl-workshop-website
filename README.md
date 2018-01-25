@@ -56,7 +56,7 @@ The workshop aims to enhance this confluence of theory and practice, highlightin
 *Chelsea Finn and Sergey Levine*  
 3. Hyperparameter Optimization: A Spectral Approach  
 *Elad Hazan, Adam Klivans, and Yang Yuan*  
-4. Learning Implicit Generative Models with Method of Learned Moments  
+4. [Learning Implicit Generative Models with Method of Learned Moments](https://github.com/ludwigschmidt/nips17-dl-workshop-website/blob/master/papers/ravuri_mohamed_rosca_vinyals.pdf)  
 *Suman Ravuri, Shakir Mohamed, Mihaela Rosca, and Oriol Vinyals* 
 
 ## Posters (11:45 - 1:30 and 3:00 - 4:00)
