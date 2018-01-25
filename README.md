@@ -114,9 +114,9 @@ The posters are listed in order of submission.
 *Hongyu Ren, Shengjia Zhao, Jiaming Song, Lijie Fan, and Stefano Ermon*
 - [Towards a testable notion of generalization for generative adversarial networks](http://www.robots.ox.ac.uk/~rcornish/assets/bib/workshop/cornish2017towards.pdf)  
 *Robert Cornish, Hongseok Yang, and Frank Wood*
-- Sparse Coding and Autoencoders  
+- [Sparse Coding and Autoencoders](https://github.com/ludwigschmidt/nips17-dl-workshop-website/blob/master/papers/rangamani_mukherjee_basu_ganapathy_arora_chin_tran.pdf)  
 *Akshay Rangamani, Anirbit Mukherjee, Ashish Arora, Amitabh Basu, Tejaswini Ganapathi, Peter Chin, and Trac Tran*
-- Investigating the working of text classifiers  
+- [Investigating the working of text classifiers](https://arxiv.org/abs/1801.06261)  
 *Devendra Singh Sachan, Manzil Zaheer, and Russ Salakhutdinov*
 - Intriguing Properties of Adversarial Examples  
 *Ekin Dogus Cubuk, Barret Zoph, Samuel S. Schoenholz, and Quoc V. Le*
