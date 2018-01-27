@@ -106,7 +106,7 @@ The posters are listed in order of submission.
 *Tom Sercu and Youssef Mroueh*
 - Theoretical limitations of Encoder-Decoder GAN architectures  
 *Sanjeev Arora, Andrej Risteski, and Yi Zhang*
-- An Online Learning Approach to Generative Adversarial Networks  
+- [An Online Learning Approach to Generative Adversarial Networks](https://arxiv.org/abs/1706.03269)  
 *Paulina Grnarova, Kfir Levy, Aurelien Lucchi, Thomas Hofmann, and Andreas Krause*
 - [mixup: Beyond Empirical Risk Minimization](https://arxiv.org/abs/1710.09412)  
 *Hongyi Zhang, Moustapha Cisse, Yann Dauphin, and David Lopez-Paz*
