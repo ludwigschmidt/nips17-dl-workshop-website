@@ -122,7 +122,7 @@ The posters are listed in order of submission.
 *Ekin Dogus Cubuk, Barret Zoph, Samuel S. Schoenholz, and Quoc V. Le*
 - Sparse-Gen: Combining Sparse Recovery and Generative Modeling for Compressed Sensing  
 *Manik Dhar, Aditya Grover, and Stefano Ermon*
-- Experiments & non-convex theory for sign-based methods in stochastic optimisation  
+- [Experiments & non-convex theory for sign-based methods in stochastic optimisation](https://arxiv.org/abs/1802.04434)  
 *Jeremy Bernstein, Kamyar Azizzadenesheli, Yu-Xiang Wang, and Anima Anandkumar*
 - Exactly solvable nonlinear recurrent networks for finite state computation  
 *Christopher Stock and Surya Ganguli*
