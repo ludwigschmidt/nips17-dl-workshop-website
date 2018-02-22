@@ -104,7 +104,6 @@ The posters are listed in order of submission.
 *Hao Li, Zheng Xu, Gavin Taylor, and Tom Goldstein*
 - [Semi-Supervised Learning with IPM-based GANs: an Empirical Study](https://arxiv.org/abs/1712.02505)  
 *Tom Sercu and Youssef Mroueh*  
-[Code available on github](https://github.com/tomsercu/SobolevGAN-SSL)
 - Theoretical limitations of Encoder-Decoder GAN architectures  
 *Sanjeev Arora, Andrej Risteski, and Yi Zhang*
 - [An Online Learning Approach to Generative Adversarial Networks](https://arxiv.org/abs/1706.03269)  
