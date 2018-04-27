@@ -72,7 +72,7 @@ The posters are listed in order of submission.
 *Simon Du, Jason Lee, and Yuandong Tian*
 - [A Pitfall of Unsupervised Pre-Training](https://arxiv.org/abs/1703.04332)  
 *Michele Alberti, Mathias Seuret, Rolf Ingold, and Marcus Liwicki*
-- Competitive Learning Enriches Learning Representation and Accelerates the Fine-tuning of CNNs  
+- [Competitive Learning Enriches Learning Representation and Accelerates the Fine-tuning of CNNs](https://arxiv.org/abs/1804.09859)
 *Takashi Shinozaki*
 - [Reducing Duplicate Filters in Deep Neural Networks](http://people.cs.umass.edu/~arunirc/downloads/pubs/redundant_filter_dltp2017.pdf)  
 *Aruni Roychowdhury, Prakhar Sharma, and Erik Learned-Miller*
